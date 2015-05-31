@@ -1,8 +1,8 @@
 {
 	"author": "Randl Morales",
-	"name": "censorify",
+	"name": "censorify-rmor",
 	"version": "0.1.1",
-	"description": "Censors words out of text",
+	"description": "Censors words out of text. NPM Practice",
 	"main": "censortext",
 	"dependencies": {},
 	"engines": {
